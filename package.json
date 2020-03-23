@@ -4,7 +4,7 @@
   "description": "Einfach nur ein Test für Lit-Elements um so a bissl rum zu spielen",
   "main": "index.js",
   "scripts": {
-    "build": "faucet",
+    "build": "faucet --compact",
     "watch": "faucet -w",
     "test": "test"
   },
