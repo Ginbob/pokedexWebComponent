@@ -30,5 +30,6 @@ export const pkmnHeaderStyles = css`
         background-color: blue;
         color: white;
         font-weight: 700;
+        border-radius: 15%;
     }
 `;
